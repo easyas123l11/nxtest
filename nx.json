@@ -15,7 +15,7 @@
     "default": {
       "runner": "nx-cloud",
       "options": {
-        "canTrackAnalytics": false,
+        "canTrackAnalytics": true,
         "showUsageWarnings": true,
         "cacheableOperations": ["build", "test", "lint", "e2e"]
       }
